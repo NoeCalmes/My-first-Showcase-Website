@@ -1,4 +1,4 @@
-# My first-website PHP, JS, HTML, CSS
+# Website PHP, JS, HTML, CSS
 
 This project, named "My first-website", is a web application developed without the use of frameworks. It combines PHP, JavaScript, HTML, and CSS programming languages to create a simple and functional web application.
 
